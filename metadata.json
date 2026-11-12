@@ -1,0 +1,6 @@
+{
+  "name": "KnowledgeHub — Enterprise RAG Knowledge Assistant",
+  "description": "Enterprise-grade Retrieval-Augmented Generation (RAG) knowledge assistant for searching, retrieving, and answering questions grounded in internal corporate documentation with strict citations and role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
